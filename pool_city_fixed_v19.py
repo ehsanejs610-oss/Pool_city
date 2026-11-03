@@ -48,7 +48,7 @@ async def answer_callback_popup(callback, text):
 # ⚙️ تنظیمات
 # ============================================================
 
-TOKEN = ""
+TOKEN = "2047002584:-GKb4wxWlKetg3krsKgceLvoMJ-8CwvgFxA"
 
 OWNER_ID = 623961720
 BOT_ID = 2047002584
